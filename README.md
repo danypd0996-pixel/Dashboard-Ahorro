@@ -1,4 +1,5 @@
-#Savings Calculation Methodology – 2025
+Savings Calculation Methodology – 2025
+
 Project Overview
 
 This project presents a methodology developed to estimate operational savings through nationwide data consolidation and KPI analysis using Excel and Power BI.
