@@ -8,9 +8,11 @@ Repository Contents
 Methodological document (Spanish version)
 Dashboard screenshots
 KPI analysis visuals
+
 Tools Used
-Excel
-Power BI
-Data Analysis
+- Excel
+- Power BI
+- Data Analysis
+
 Note:
 The methodological document is written in Spanish because it was originally developed for a local operational context. All sensitive information has been anonymized for portfolio purposes.
