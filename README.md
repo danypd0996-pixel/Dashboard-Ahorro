@@ -1,14 +1,15 @@
-# Dashboard-Ahorro
+#Savings Calculation Methodology – 2025
+Project Overview
 
-Proyecto con Excel y Power Bi en el cual se desarrollo la metodología utilizada para calcular el ahorro generado de las gestiones territoriales, tomando como base información registrada una base de datos y aplicando un análisis multinivel para la estimación de valores faltantes.
+This project presents a methodology developed to estimate operational savings through nationwide data consolidation and KPI analysis using Excel and Power BI.
 
-Tecnologias
+Repository Contents
+Methodological document (Spanish version)
+Dashboard screenshots
+KPI analysis visuals
+Tools Used
 Excel
-Power Bi
-Power Query
-
-Funciones
-Consolidacion de informacion
-ETL
-asignacion de valores faltantes mediante la mediana
-Creacion de Dashboard interactivo con el ahorro del año 2025
+Power BI
+Data Analysis
+Note:
+The methodological document is written in Spanish because it was originally developed for a local operational context. All sensitive information has been anonymized for portfolio purposes.
